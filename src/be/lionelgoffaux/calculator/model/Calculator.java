@@ -30,7 +30,7 @@ public class Calculator {
     }
 
     /***
-     * This method do the user's operation to the two last numbers in the stack.
+     * This method do the user's operation to the last numbers in the stack.
      * @param o The method to perform, using functional interface Operator.
      */
     public void doOperation(Operator o){

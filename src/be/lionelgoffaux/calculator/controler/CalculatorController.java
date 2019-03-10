@@ -8,7 +8,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /***
- * Controller of the different events from the calculator GUI.
+ * Controller of the different events from the calculator buttons.
  * @author Lionel Goffaux
  */
 public class CalculatorController implements ActionListener {
