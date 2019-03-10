@@ -7,7 +7,8 @@ create my own.
 
 ## Build
 
-###dependencies:
+### Dependencies:
+
 * JDK 1.8
 * Ant Builder
 
