@@ -1,13 +1,11 @@
 # Calculator
 
 This is a simple calculator using M.V.C. pattern. It's made to exemplify
-the pattern. The Calculator response also to the problem that 
-there is no good calculators on OS X by default. So I decide to
-create my own.
+the pattern.
 
 ## Build
 
-### Dependencies:
+### Requirements:
 
 * JDK 1.8
 * Ant Builder
